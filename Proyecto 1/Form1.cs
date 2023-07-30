@@ -80,7 +80,7 @@ namespace Proyecto_1
             else
             ////////////////////Mensaje para la iniciacion de inicio de mis usuarios//////////////////////////
             {
-                MessageBox.Show(" Los Datos que ha Puesto Son Errores. Vuelva a insertar su Usuario y Contraseña por favor!! . ");
+                MessageBox.Show("Los Datos que ha Puesto Son Errores. Vuelva a insertar su Usuario y Contraseña por favor!!.");
 
 
             }
